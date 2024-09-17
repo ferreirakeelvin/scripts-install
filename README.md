@@ -1,4 +1,4 @@
-O que este script faz:
+##O que este script faz:
 Btrfs: Configura subvolumes para otimização.
 ZRAM: Configura e ativa a compressão ZRAM.
 Zswap: Habilita a compressão swap com zstd.
